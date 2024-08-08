@@ -2,4 +2,5 @@
 
 **The Score: grandmaster = 8 master = 4 contributor = 2 expert = 1 novice = 0**
 
-#picture
+![21](https://github.com/user-attachments/assets/b34f2d61-517f-428a-ad84-afb9332c82b9)
+
